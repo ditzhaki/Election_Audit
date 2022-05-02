@@ -52,6 +52,9 @@ Raymon Anthony Doane | 11,606 | 3.1% |
 
 The winning candidate with the highest number of votes was Diana Degette. She received a total of 272,892 votes, making up 73.8% of total votes. The runner up was Charles Casper Stockholm with a total of 85,213 votes, making up for 23% of votes. And finally, Raymon Anthony Doane received the least number of votes, totaling 11,606 votes which made up only 3.1%. 
 
+The results of the election audit were saved to a text file (*election_results.txt*) and displayed as follows:
+
+<img width="345" alt="Screen Shot 2022-05-02 at 3 01 10 PM" src="https://user-images.githubusercontent.com/101564349/166308675-6eb0f4f3-7bbe-428d-b8e1-5415f67e2d15.png">
 
 ## Election Audit Summary
 
